@@ -1,5 +1,11 @@
 # Big-Project-with-stdlib
 
+-   REPL environment with integrated help and examples.
+
+    <div class="image" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@3864ae6f86bbc215956c0e667d82d49a6eaca780/docs/assets/readme/repl.gif" alt="Demo showcasing REPL environment">
+    </div>
+
 -   150+ [special math functions][@stdlib/math/base/special].
 
     <div class="image" align="center">
