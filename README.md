@@ -4,13 +4,13 @@ Hey there! I am Rejoan Sardar, a computer science undergraduate (as of writing t
 
 -   REPL environment with integrated help and examples.
       - This project aimed to implement a suite of enhancements to the stdlib REPL to achieve feature parity with similar environments for scientific computing such as IPython and Julia. These enhancements include:
-            - Fuzzy auto-completion
-            - Syntax highlighting
-            - Visualization tools for tabular data
-            - Multi-line editing
-            - Paged outputs
-            - Bracketed-paste
-            - and more...
+            -  Fuzzy auto-completion
+            -  Syntax highlighting
+            -  Visualization tools for tabular data
+            -  Multi-line editing
+            -  Paged outputs
+            -  Bracketed-paste
+            -  and more...
 
     - #### New REPL, New Art
 
