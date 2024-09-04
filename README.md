@@ -13,7 +13,7 @@ Hey there! I am Rejoan Sardar, a computer science undergraduate (as of writing t
       - Bracketed-paste
       - and more...
 
-    - #### New REPL, New Art
+- #### New REPL, New Art
 
     ![ascii](https://github.com/user-attachments/assets/429c3e74-2f78-447e-a855-27aaf9dcb998)
 
