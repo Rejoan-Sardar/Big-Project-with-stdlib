@@ -170,7 +170,7 @@ Hey there! I am Rejoan Sardar, a computer science undergraduate (as of writing t
 
   3. A challenge I faced was with key combinations involving symbols. (Ex: CTRL+/). `readline` doesn't parse such combinations into human-enriched formats and hence I had to write a custom parser (`parse_key.js`) to parse such key combinations.
 
-# 150+ [special math functions][@stdlib/math/base/special].
+# 150+ [[special math functions][@stdlib/math/base/special]](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib/stats/base).
 
     <div class="image" align="center">
         <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@203839353bc74297fe641207270f7917d2bda560/docs/assets/readme/base_special_math.png" alt="Demo showcasing special math functions">
