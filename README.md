@@ -1,6 +1,6 @@
 Hey there! I am Rejoan Sardar, a computer science undergraduate (as of writing this) at the Lovely Professional University, Punjab, India. Apart from my interest in computers and software, I have a dormant passion for audio DSP and synthesis.
 
-# Big-Project-with-stdlib
+# [Aimed to implement the Node.js REPL to achieve feature parity with similar environments for scientific computing such as *IPython* and *Julia*. These enhancements include:](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib/repl)
 
 
   -  This project aimed to implement a suite of enhancements to the Node.js REPL to achieve feature parity with similar environments for scientific computing such as *IPython* and *Julia*. These enhancements include:
@@ -170,13 +170,13 @@ Hey there! I am Rejoan Sardar, a computer science undergraduate (as of writing t
 
   3. A challenge I faced was with key combinations involving symbols. (Ex: CTRL+/). `readline` doesn't parse such combinations into human-enriched formats and hence I had to write a custom parser (`parse_key.js`) to parse such key combinations.
 
--   150+ [special math functions][@stdlib/math/base/special].
+# 150+ [special math functions][@stdlib/math/base/special].
 
     <div class="image" align="center">
         <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@203839353bc74297fe641207270f7917d2bda560/docs/assets/readme/base_special_math.png" alt="Demo showcasing special math functions">
     </div>
 
--   35+ [probability distributions][@stdlib/stats/base/dists], with support for evaluating probability density functions (PDFs), cumulative distribution functions (CDFs), quantiles, moments, and more.
+# 35+ [probability distributions][@stdlib/stats/base/dists], with support for evaluating probability density functions (PDFs), cumulative distribution functions (CDFs), quantiles, moments, and more.
 
     <div class="image" align="center">
         <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@e13885087939c064c69aa43ee80ea52710de5591/docs/assets/readme/base_dists.png" alt="Demo showcasing probability distributions">
