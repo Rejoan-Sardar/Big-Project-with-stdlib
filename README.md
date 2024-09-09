@@ -5,13 +5,13 @@ Hey there! I am Rejoan Sardar, a computer science undergraduate (as of writing t
 
   -  This project aimed to implement a suite of enhancements to the Node.js REPL to achieve feature parity with similar environments for scientific computing such as *IPython* and *Julia*. These enhancements include:
 
-      - Fuzzy auto-completion
-      - Syntax highlighting
-      - Visualization tools for tabular data
-      - Multi-line editing
-      - Paged outputs
-      - Bracketed-paste
-      - and more...
+     - [Fuzzy auto-completion](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib#fuzzy-completions)
+     - [Syntax highlighting](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib#syntax-highlighting)
+     - [Visualization tools for tabular data](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib#custom-key-bindings)
+     - [Multi-line editing](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib#multi-line-editing)
+     - [Paged outputs](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib#pager)
+     - [Bracketed-paste](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib#bracketed-paste-mode)
+     - and more...
 
 - #### New REPL, New Art
 
