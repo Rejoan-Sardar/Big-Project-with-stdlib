@@ -170,19 +170,19 @@ Hey there! I am Rejoan Sardar, a computer science undergraduate (as of writing t
 
   3. A challenge I faced was with key combinations involving symbols. (Ex: CTRL+/). `readline` doesn't parse such combinations into human-enriched formats and hence I had to write a custom parser (`parse_key.js`) to parse such key combinations.
 
-# 150+ [[special math functions][@stdlib/math/base/special]](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib/stats/base).
+# 150+ [[special math functions][@stdlib/math/base/special]](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib/math/base).
 
     <div class="image" align="center">
         <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@203839353bc74297fe641207270f7917d2bda560/docs/assets/readme/base_special_math.png" alt="Demo showcasing special math functions">
     </div>
 
-# 35+ [probability distributions][@stdlib/stats/base/dists], with support for evaluating probability density functions (PDFs), cumulative distribution functions (CDFs), quantiles, moments, and more.
+# 35+ [[probability distributions][@stdlib/stats/base/dists]](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib/stats/base), with support for evaluating probability density functions (PDFs), cumulative distribution functions (CDFs), quantiles, moments, and more.
 
     <div class="image" align="center">
         <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@e13885087939c064c69aa43ee80ea52710de5591/docs/assets/readme/base_dists.png" alt="Demo showcasing probability distributions">
     </div>
 
--   40+ [seedable pseudorandom number generators][@stdlib/random/base] (PRNGs).
+-   40+ [[seedable pseudorandom number generators][@stdlib/random/base] (PRNGs)](https://github.com/Rejoan-Sardar/Big-Project-with-stdlib/tree/main/lib/node_modules/%40stdlib/random).
 
     <div class="image" align="center">
         <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@83dcd0fad98883320a8b1efc801b2fc1ed2a003d/docs/assets/readme/base_prngs.png" alt="Demo showcasing PRNGs">
